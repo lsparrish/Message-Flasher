@@ -1,0 +1,6 @@
+mkdir /usr/local/share/flasher
+cp aff.txt /usr/local/share/flasher/
+cp flasher.tcl /usr/local/share/flasher
+echo 'cd /usr/local/share/flasher;wish flasher.tcl' > flasher
+chmod +xr flasher
+cp flasher /usr/local/bin/
