@@ -23,6 +23,7 @@ encountered, at which point it loops back to the beginning. A
 line beginning with the **#** sign is considered a comment.
 
 ::
+
  # The following messages are about coding:
  I remember to comment my code.
  I follow good design principles.
